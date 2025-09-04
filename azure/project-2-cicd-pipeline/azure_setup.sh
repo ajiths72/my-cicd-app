@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/bash
 
 # Set your variables
 RESOURCE_GROUP_NAME="rg-webapp-deploy"
